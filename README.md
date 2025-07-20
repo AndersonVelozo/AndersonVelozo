@@ -15,6 +15,12 @@
   - 💼 Tenho experiência em desenvolvimento web (HTML, CSS, JS, React Native, Node.js), bancos de dados e também conhecimentos sólidos em automação e integração de dados para áreas de saúde e finanças.
 </p>
 
+### 📊 GitHub Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/AndersonVelozo/AndersonVelozo/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/AndersonVelozo/AndersonVelozo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
