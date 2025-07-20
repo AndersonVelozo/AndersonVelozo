@@ -43,7 +43,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/AndersonVelozo/AndersonVelozo/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Coding Animation">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Skills
@@ -60,6 +60,7 @@
 <!-- Skills: Ferramentas e Frameworks -->
 <div style="flex-basis: 48%;">
   <h3>Ferramentas e Frameworks</h3>
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
@@ -73,3 +74,4 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 </div>
+
