@@ -1,3 +1,9 @@
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -14,12 +20,6 @@
 
   - 💼 Tenho experiência em desenvolvimento web (HTML, CSS, JS, React Native, Node.js), bancos de dados e também conhecimentos sólidos em automação e integração de dados para áreas de saúde e finanças.
 </p>
-
-### 📊 GitHub Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/AndersonVelozo/AndersonVelozo/output/github-contribution-grid-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/AndersonVelozo/AndersonVelozo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 <!-- Dropdown -->
 <details>
