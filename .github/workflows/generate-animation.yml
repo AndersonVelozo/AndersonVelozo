@@ -1,41 +1,36 @@
 name: generate animation
 
 on:
-  # Executa automaticamente todos os dias à meia-noite (UTC)
   schedule:
-    - cron: "0 0 * * *"
-
-  # Permite executar manualmente via GitHub Actions
-  workflow_dispatch:
-
-  # Executa quando há push no branch master
+    - cron: "0 0 * * *"  # executa automaticamente à meia-noite UTC todos os dias
+  workflow_dispatch:      # permite rodar manualmente
   push:
     branches:
-      - master
+      - master            # dispara quando há push na master
 
 jobs:
   generate:
     name: Generate Snake Animation
     permissions:
-      contents: write
+      contents: write     # necessário para empurrar arquivos
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      # Etapa de checkout é importante se você for precisar do conteúdo do repositório
+      # Etapa obrigatória para acessar conteúdo do repositório
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Gera o SVG da grade de contribuições
+      # Gera os arquivos SVG da grade de contribuições
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: AndersonVelozo
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      # Publica os arquivos no branch "output"
+      # Empurra os arquivos SVG para o branch output
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
