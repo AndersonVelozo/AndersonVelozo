@@ -12,26 +12,30 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, eu sou o Anderson! Enfermeiro e desenvolvedor full stack apaixonado por tecnologia e saúde.
-
-  - 🌱 Atualmente estudo Engenharia de Software e também curso Enfermagem para aprofundar meu conhecimento na interseção entre tecnologia e saúde.
-
-  - 🔭 Estou desenvolvendo projetos focados em saúde digital, como sistemas de controle vacinal (Carteira de Vacinação Digital), monitoramento de doenças crônicas (app VidaTrack) e soluções web full stack com JavaScript e TypeScript.
-
-  - 💼 Tenho experiência em desenvolvimento web (HTML, CSS, JS, React Native, Node.js), bancos de dados e também conhecimentos sólidos em automação e integração de dados para áreas de saúde e finanças.
+  Olá 👋, eu sou o Anderson! Enfermeiro e desenvolvedor full stack, apaixonado por tecnologia e saúde digital.
 </p>
+
+<ul>
+  <li>🌱 Atualmente curso <b>Engenharia de Software</b> e <b>Enfermagem</b>, unindo tecnologia e saúde em meus projetos.</li>
+  <li>🔭 Desenvolvo soluções digitais focadas em saúde, como:
+    <ul>
+      <li>📌 Carteira de Vacinação Digital</li>
+      <li>📌 VidaTrack – app para monitoramento de doenças crônicas</li>
+      <li>📌 Sistemas web full stack com <b>JavaScript</b>, <b>TypeScript</b> e <b>Java</b></li>
+    </ul>
+  </li>
+  <li>💼 Experiência em <b>desenvolvimento web</b> (HTML, CSS, JS, React Native, Node.js), <b>bancos de dados</b>, automação e integração de dados aplicados à saúde e finanças.</li>
+</ul>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
-
-  - 💬 Tenho 25 anos, moro no Brasil e estou sempre buscando aprender e aplicar novas tecnologias que possam melhorar a saúde pública e o cuidado ao paciente.
-
-  - ⚡ Além de programar, gosto de ler, estudar saúde, acompanhar novidades em biotech e desenvolver projetos que impactem positivamente a vida das pessoas.
-
-  - 🎯 Meus principais skills são JavaScript, TypeScript, React Native, Node.js, Python (básico/intermediário), além de ferramentas como Git, Docker, PostgreSQL e AWS.
-
-  - 🚀 Estou sempre aberto a desafios que envolvam tecnologia, inovação e saúde digital.
+  <ul>
+    <li>💬 Tenho 25 anos, moro no Brasil e sou movido por aprender e aplicar tecnologias que melhorem a saúde pública e o cuidado ao paciente.</li>
+    <li>⚡ Além de programar, gosto de ler, estudar saúde, acompanhar inovações em biotech e criar projetos com impacto positivo.</li>
+    <li>🎯 Skills principais: <b>JavaScript</b>, <b>TypeScript</b>, <b>React Native</b>, <b>Node.js</b>, <b>Java</b>, além de <b>Python (básico/intermediário)</b>, Git, Docker, PostgreSQL e AWS.</li>
+    <li>🚀 Sempre aberto a desafios em tecnologia, inovação e saúde digital.</li>
+  </ul>
 </details>
 
 <!-- Links -->
