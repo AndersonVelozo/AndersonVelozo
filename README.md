@@ -1,9 +1,3 @@
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -13,14 +7,14 @@
 
 <!-- Presentation -->
 <p align="center">
-  Olá 👋, eu sou o Anderson! Enfermeiro e desenvolvedor full stack, apaixonado por tecnologia e saúde digital.
+  Olá 👋, eu sou o Anderson! Estou graduando Engenharia de Software e sou formado como desenvolvedor full stack, apaixonado por tecnologia e saúde digital.
 </p>
 
 ---
 
 ### 👨‍⚕️💻 Sobre Mim
 
-🌱 Atualmente curso **Engenharia de Software** e **Enfermagem**, unindo tecnologia e saúde em meus projetos.
+🌱 Atualmente curso **Engenharia de Software** com foco em tecnologia e saúde em meus projetos.
 
 🔭 Desenvolvo soluções digitais focadas em saúde, como:
 - 📌 **Carteira de Vacinação Digital (VacineGo)**
@@ -58,6 +52,19 @@
 
 ### 🚀 Projetos em Destaque
 
+#### 💰 [Finance.ai - Gestão de Finanças Pessoais](https://github.com/AndersonVelozo/Finance.ai)
+> Plataforma completa para controle e planejamento financeiro pessoal
+
+**Stack:** Next.js, TypeScript, Prisma, PostgreSQL  
+**Features:**
+- 💳 Controle de receitas e despesas
+- 📊 Dashboards interativos com gráficos
+- 🎯 Metas financeiras e orçamento
+- 📈 Análise de gastos por categoria
+- 🔐 Autenticação segura
+
+---
+
 #### 📱 [VidaTrack - App para Monitoramento de Doenças Crônicas](https://github.com/AndersonVelozo/VidaTrack)
 > Aplicativo mobile para ajudar pacientes no monitoramento de condições crônicas de saúde
 
@@ -68,6 +75,10 @@
 - 📈 Gráficos de evolução temporal
 - 🔔 Alertas personalizados
 
+> ⚠️ **Status:** Projeto em fase beta. Piloto rodando internamente. Código-fonte privado no momento.
+
+---
+
 #### 💉 [VacineGo - Carteira de Vacinação Digital](https://github.com/AndersonVelozo/VacineGo)
 > Solução digital para gestão e acompanhamento do histórico vacinal
 
@@ -77,6 +88,8 @@
 - 🔔 Lembretes automáticos
 - 📄 Certificados digitais
 - 🔒 Segurança de dados de saúde
+
+> ⚠️ **Status:** Em desenvolvimento. Versão beta em testes. Repositório privado temporariamente.
 
 ---
 
@@ -97,6 +110,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Ferramentas & DevOps**
 
@@ -109,6 +123,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
@@ -146,10 +161,6 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Coding GIF" width="400">
-</p>
 
 <p align="center">
   <i>"Transformando código em soluções que salvam vidas" 💙</i>
