@@ -40,9 +40,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonVelozo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVelozo&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonVelozo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVelozo&layout=compact&langs_count=8&theme=gotham" alt="Top Languages"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonVelozo&theme=gotham" alt="GitHub Streak"/>
@@ -53,7 +55,7 @@
 ### 🚀 Projetos em Destaque
 
 #### 💰 [Finance.ai - Gestão de Finanças Pessoais](https://github.com/AndersonVelozo/Finance.ai)
-> Plataforma completa para controle e planejamento financeiro pessoal
+> Plataforma completa para controle e planejamento financeiro pessoal com inteligência artificial
 
 **Stack:** Next.js, TypeScript, Prisma, PostgreSQL  
 **Features:**
@@ -61,6 +63,7 @@
 - 📊 Dashboards interativos com gráficos
 - 🎯 Metas financeiras e orçamento
 - 📈 Análise de gastos por categoria
+- 🤖 **Insights inteligentes e recomendações financeiras com IA**
 - 🔐 Autenticação segura
 
 ---
