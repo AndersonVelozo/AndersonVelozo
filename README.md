@@ -1,4 +1,4 @@
- <picture align="center">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
@@ -8,28 +8,31 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Anderson Velozo</h1></summary>
+  </ul>
 </div>
 
 <!-- Presentation -->
-<p>
+<p align="center">
   Olá 👋, eu sou o Anderson! Enfermeiro e desenvolvedor full stack, apaixonado por tecnologia e saúde digital.
 </p>
 
-<ul>
-  <li>🌱 Atualmente curso <b>Engenharia de Software</b> e <b>Enfermagem</b>, unindo tecnologia e saúde em meus projetos.</li>
-  <li>🔭 Desenvolvo soluções digitais focadas em saúde, como:
-    <ul>
-      <li>📌 Carteira de Vacinação Digital</li>
-      <li>📌 VidaTrack – app para monitoramento de doenças crônicas</li>
-      <li>📌 Sistemas web full stack com <b>JavaScript</b>, <b>TypeScript</b> e <b>Java</b></li>
-    </ul>
-  </li>
-  <li>💼 Experiência em <b>desenvolvimento web</b> (HTML, CSS, JS, React Native, Node.js), <b>bancos de dados</b>, automação e integração de dados aplicados à saúde e finanças.</li>
-</ul>
+---
+
+### 👨‍⚕️💻 Sobre Mim
+
+🌱 Atualmente curso **Engenharia de Software** e **Enfermagem**, unindo tecnologia e saúde em meus projetos.
+
+🔭 Desenvolvo soluções digitais focadas em saúde, como:
+- 📌 **Carteira de Vacinação Digital (VacineGo)**
+- 📌 **VidaTrack** – app para monitoramento de doenças crônicas
+- 📌 Sistemas web full stack com **JavaScript**, **TypeScript** e **Java**
+
+💼 Experiência em **desenvolvimento web** (HTML, CSS, JS, React Native, Node.js), **bancos de dados**, automação e integração de dados aplicados à saúde e finanças.
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
+  <br>
   <ul>
     <li>💬 Tenho 25 anos, moro no Brasil e sou movido por aprender e aplicar tecnologias que melhorem a saúde pública e o cuidado ao paciente.</li>
     <li>⚡ Além de programar, gosto de ler, estudar saúde, acompanhar inovações em biotech e criar projetos com impacto positivo.</li>
@@ -38,50 +41,116 @@
   </ul>
 </details>
 
-<!-- Links -->
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonVelozo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVelozo&layout=compact&langs_count=8&theme=gotham"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonVelozo&theme=gotham" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 📱 [VidaTrack - App para Monitoramento de Doenças Crônicas](https://github.com/AndersonVelozo/VidaTrack)
+> Aplicativo mobile para ajudar pacientes no monitoramento de condições crônicas de saúde
+
+**Stack:** React Native, Node.js, PostgreSQL  
+**Features:**
+- 📊 Registro de sintomas e métricas de saúde
+- 💊 Lembretes de medicação
+- 📈 Gráficos de evolução temporal
+- 🔔 Alertas personalizados
+
+#### 💉 [VacineGo - Carteira de Vacinação Digital](https://github.com/AndersonVelozo/VacineGo)
+> Solução digital para gestão e acompanhamento do histórico vacinal
+
+**Stack:** TypeScript, Express, Docker, PostgreSQL  
+**Features:**
+- 📋 Histórico completo de vacinas
+- 🔔 Lembretes automáticos
+- 📄 Certificados digitais
+- 🔒 Segurança de dados de saúde
+
+---
+
+### 🔥 Skills
+
+**Linguagens de Programação**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Ferramentas & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Bancos de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndersonVelozo&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🔭 No que estou trabalhando
+
+- 🏥 Desenvolvendo soluções de telemedicina e saúde digital
+- 📚 Estudando AWS e arquitetura de microserviços
+- 🤝 Aberto para colaborações em projetos de impacto social na área da saúde
+- 🌟 Contribuindo para projetos open source
+
+---
+
+### 📫 Como me Encontrar
+
+💼 **Aberto para oportunidades** em desenvolvimento full stack e saúde digital!
+
+💬 **Vamos conversar sobre:** Tecnologia, Saúde Digital, Inovação, Open Source
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-velozo-7982321b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/png_ander/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndersonVelozo)
 
-<!-- GithubStats -->
-![AndersonVelozo GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVelozo&show_icons=true&theme=gotham)
+![Profile Views](https://komarev.com/ghpvc/?username=AndersonVelozo&color=blue&style=for-the-badge)
 
-<!-- Portfolio -->
-## Portfólio:
-- [VidaTrack - App para Monitoramento de Doenças Crônicas](https://github.com/AndersonVelozo/VidaTrack)
-- [Carteira de Vacinação Digital (VacineGo)](https://github.com/AndersonVelozo/VacineGo)
+</div>
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+---
+
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Coding GIF" width="400">
 </p>
 
-## 🔥 Skills
-<!-- Skills: Linguagens de Programação -->
-<div style="flex-basis: 48%;">
-  <h3>Linguagens de Programação</h3>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-</div>
-
-<!-- Skills: Ferramentas e Frameworks -->
-<div style="flex-basis: 48%;">
-  <h3>Ferramentas e Frameworks</h3>
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-</div>
-
-<!-- Skills: Bancos de Dados -->
-<div style="flex-basis: 48%;">
-  <h3>Bancos de Dados</h3>
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-</div>
-
+<p align="center">
+  <i>"Transformando código em soluções que salvam vidas" 💙</i>
+</p>
