@@ -40,10 +40,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonVelozo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVelozo&layout=compact&langs_count=8&theme=gotham&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndersonVelozo&theme=gotham&hide_border=true)
 
