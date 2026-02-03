@@ -62,7 +62,6 @@
 
 **Stack:** React Native, Python (FastAPI + Playwright), PostgreSQL, Redis, Expo  
 **Features:**
-- 🕷️ **Web scraping automatizado** de múltiplos supermercados (Carrefour, Pão de Açúcar, Extra)
 - 🗺️ Mapa interativo com **Mapbox** mostrando preços em tempo real
 - 📍 Localização geográfica e busca por proximidade (raio de 5km)
 - 📊 Analytics de ROI (economia vs custo de deslocamento)
